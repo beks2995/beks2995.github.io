@@ -1,0 +1,7 @@
+*.scss
+*.DS_Store
+/scss
+style.css
+darkmode.js
+form.js
+main.js
